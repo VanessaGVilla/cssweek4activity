@@ -1,15 +1,40 @@
 
 body {
-	background-color: light blue;
+	background-color: rgb(140, 237, 248);
 	color: black;
 	font-family: 'Helvetica', 'Arial', sans-serif;
 	font-size: 16px;
    }
 
+#text-intro {
+	font-family: Verdana, sans-serif;
+	background-color: rgb(114, 113, 113);
+	border: 2px solid rgb(246, 246, 246);
+	color: white;
+	padding: 1.5em;
+
+}
+
 #section-intro {
-	background-color: white;
-	border: 2px solid pink;
-	color: black;
-	padding: 1em;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+	background-color: rgb(114, 113, 113);
+	border: 2px solid rgb(246, 246, 246);
+	color: white;
+	padding: 1.5em;
+	margin-bottom: 1em;
+}
+
+
+  h1 {
+	font-family: "Sofia", sans-serif;
+	text-shadow: 2px 2px #fbf8f8;
+	text-align: center;
+	font-size: 5em;
+     background-color: rgb(9, 203, 109);
+	 padding: 2em;
+}
+
+h2 {
+	font-size: 1.75em;
 
 }
